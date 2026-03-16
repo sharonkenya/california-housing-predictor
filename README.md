@@ -79,6 +79,14 @@ pip install pandas scikit-learn flask
 
    Performance Metric: R² (Coefficient of Determination) was used to ensure the model accurately captures the variance in housing prices.
 
+   🖥️ Streamlit Dashboard (Bonus)
+
+   I also built an interactive dashboard to visualize the model's predictions.  
+    To run the dashboard:
+   1. Install Streamlit: `pip install streamlit`
+   2. Run the command: `streamlit run streamlit_app.py`
+   3. Use the sidebar sliders to input house features and see real-time price predictions.
+
    🎓 Conclusion
 
    Through this project, I gained hands-on experience in:  
